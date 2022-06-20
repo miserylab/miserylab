@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer</h3>
 
 
-- 🌱 I’m currently learning **automation testing(API, UI, Mobile) on Python via qa.guru**
+- 🌱 I’m currently learning **automation testing(API, UI, Mobile) on Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
