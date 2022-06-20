@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olga Demina</h1>
-<h3 align="center">A QA Engineer</h3>
+<h3 align="center">QA Engineer</h3>
 
 
 - 🌱 I’m currently learning **automation testing(API, UI, Mobile) on Python via qa.guru**
