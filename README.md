@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olga Demina</h1>
-<h3 align="center">A QA Engineer</h3>
-
 
 - 🌱 I’m currently learning **automation testing(API, UI, Mobile) on Python**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +14,6 @@
 
 <p align="left"> <a href="https://twitter.com/narrenspiel" target="blank"><img src="https://img.shields.io/twitter/follow/narrenspiel?logo=twitter&style=for-the-badge" alt="narrenspiel" /></a> </p>
 
-- ⚡ My hobbies **Video games, sci-fi books, miniatures**
+- ⚡ My hobbies **video games, sci-fi books, miniatures**
 
 <a href="https://www.exophase.com/user/miserylab/"><img src="https://card.exophase.com/2/0/34850.png?1657181447"></a>
