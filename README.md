@@ -15,7 +15,8 @@
 QA.GURU diploma projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miserylab&repo=petstore-api-test-project&theme=darcula)](https://github.com/miserylab/petstore-api-test-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miserylab&repo=litres-test-project&theme=darcula)](https://github.com/miserylab/litres-test-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miserylab&repo=litres-ui-test-project&theme=darcula)](https://github.com/miserylab/litres-ui-test-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miserylab&repo=litres-mobile-test-project&theme=darcula)](https://github.com/miserylab/litres-mobile-test-project)
 
 -----------------------------------------------------------------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miserylab&theme=github_dark)
