@@ -14,10 +14,7 @@
 -----------------------------------------------------------------
 QA.GURU diploma projects
 
-    <div align=center>
-      <a align="left" href="https://github.com/miserylab/petstore-api-test-project" title="Petstore API test project"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=miserylabS&repo=petstore-api-test-project&theme=react&border_color=862020&border_radius=6"></a>
-    </a>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miserylab&repo=petstore-api-test-project)](https://github.com/miserylab/petstore-api-test-project)
 
 
 -----------------------------------------------------------------
