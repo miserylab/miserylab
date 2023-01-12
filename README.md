@@ -4,7 +4,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/narrenspiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narrenspiel" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/oademina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oademina" height="30" width="40" /></a>
 </p>
 
@@ -27,5 +26,3 @@ QA.GURU diploma projects
 
 -----------------------------------------------------------------
 - ⚡ My hobbies: **video games, sci-fi books, miniatures**
-
-<a href="https://www.exophase.com/user/miserylab/"><img src="https://card.exophase.com/2/0/34850.png?1657181447"></a>
