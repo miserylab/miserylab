@@ -2,7 +2,7 @@
 
 Hello! I'm Olga Demina
 
-I am an Automation Quality Assurance (AQA) engineer with over 1 year of experience in the field.
+I am an Automation Quality Assurance (AQA) engineer with over a year of experience in the field.
 
 ### My Expertise
 - **Functional Testing:** Over a decade of experience in functional testing, ensuring software applications meet the required specifications and standards.
