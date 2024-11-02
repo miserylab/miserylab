@@ -19,9 +19,6 @@ I am an Automation Quality Assurance (AQA) engineer with over a year of experien
 <a href="https://linkedin.com/in/linkedin.com/in/odemina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/odemina" height="30" width="40" /></a>
 </p>
 
-### My Hobbies
-⚡ **video games, sci-fi books, miniatures**
-
 -----------------------------------------------------------------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miserylab&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miserylab&theme=github_dark)
